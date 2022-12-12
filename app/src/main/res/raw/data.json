@@ -1,0 +1,191 @@
+{
+  "id": "abc",
+  "title": "",
+  "value": {
+    "array_example": {
+      "id": "",
+      "title": "",
+      "description": null,
+      "readOnly": false,
+      "writeOnly": false,
+      "unit": null,
+      "oneOf": null,
+      "format": null,
+      "readers": null,
+      "writers": null,
+      "type": "array",
+      "value": [
+        {
+          "id": "",
+          "title": "",
+          "description": null,
+          "readOnly": false,
+          "writeOnly": false,
+          "unit": null,
+          "oneOf": null,
+          "format": null,
+          "readers": null,
+          "writers": null,
+          "type": "null"
+        },
+        {
+          "id": "",
+          "title": "",
+          "description": null,
+          "readOnly": false,
+          "writeOnly": false,
+          "unit": null,
+          "oneOf": null,
+          "format": null,
+          "readers": null,
+          "writers": null,
+          "type": "null"
+        }
+      ]
+    },
+    "bool_example": {
+      "id": "",
+      "title": "",
+      "description": null,
+      "readOnly": false,
+      "writeOnly": false,
+      "unit": null,
+      "oneOf": null,
+      "format": null,
+      "readers": null,
+      "writers": null,
+      "type": "bool",
+      "value": true
+    },
+    "int_example": {
+      "id": "",
+      "title": "",
+      "description": null,
+      "readOnly": false,
+      "writeOnly": false,
+      "unit": null,
+      "oneOf": null,
+      "format": null,
+      "readers": null,
+      "writers": null,
+      "type": "integer",
+      "value": 1,
+      "minimum": 0,
+      "maximum": 100
+    },
+    "object_example": {
+      "id": "",
+      "title": "",
+      "description": null,
+      "readOnly": false,
+      "writeOnly": false,
+      "unit": null,
+      "oneOf": null,
+      "format": null,
+      "readers": null,
+      "writers": null,
+      "type": "object",
+      "value": {
+        "array_example": {
+          "id": "",
+          "title": "",
+          "description": null,
+          "readOnly": false,
+          "writeOnly": false,
+          "unit": null,
+          "oneOf": null,
+          "format": null,
+          "readers": null,
+          "writers": null,
+          "type": "array",
+          "value": [
+            {
+              "id": "",
+              "title": "",
+              "description": null,
+              "readOnly": false,
+              "writeOnly": false,
+              "unit": null,
+              "oneOf": null,
+              "format": null,
+              "readers": null,
+              "writers": null,
+              "type": "null"
+            },
+            {
+              "id": "",
+              "title": "",
+              "description": null,
+              "readOnly": false,
+              "writeOnly": false,
+              "unit": null,
+              "oneOf": null,
+              "format": null,
+              "readers": null,
+              "writers": null,
+              "type": "null"
+            }
+          ]
+        },
+        "bool_example": {
+          "id": "",
+          "title": "",
+          "description": null,
+          "readOnly": false,
+          "writeOnly": false,
+          "unit": null,
+          "oneOf": null,
+          "format": null,
+          "readers": null,
+          "writers": null,
+          "type": "bool",
+          "value": true
+        },
+        "int_example": {
+          "id": "",
+          "title": "",
+          "description": null,
+          "readOnly": false,
+          "writeOnly": false,
+          "unit": null,
+          "oneOf": null,
+          "format": null,
+          "readers": null,
+          "writers": null,
+          "type": "integer",
+          "value": 1,
+          "minimum": 0,
+          "maximum": 100
+        },
+        "string_example": {
+          "id": "",
+          "title": "",
+          "description": null,
+          "readOnly": false,
+          "writeOnly": false,
+          "unit": null,
+          "oneOf": null,
+          "format": null,
+          "readers": null,
+          "writers": null,
+          "type": "string",
+          "value": "Hello"
+        }
+      }
+    },
+    "string_example": {
+      "id": "",
+      "title": "",
+      "description": null,
+      "readOnly": false,
+      "writeOnly": false,
+      "unit": null,
+      "oneOf": null,
+      "format": null,
+      "readers": null,
+      "writers": null,
+      "type": "string",
+      "value": "Hello"
+    }
+  }
+}
